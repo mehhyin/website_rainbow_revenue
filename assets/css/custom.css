@@ -1,0 +1,12 @@
+body {
+  /* background-color: red; */
+}
+
+.project-filter-button-container > a {
+  /* border: 1px solid red !important; */
+  white-space: nowrap;
+}
+
+.project-filter-button-container > a {
+  margin-right: 1rem;
+}
