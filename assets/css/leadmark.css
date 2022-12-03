@@ -562,6 +562,11 @@ pre code {
   margin-left: auto;
 }
 
+.portfolio-flex-section {
+  display: flex;
+  flex-direction: column;
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -11649,7 +11654,7 @@ textarea.form-control {
   border-radius: 100px;
   padding: 2px;
   margin: 0 auto 20px;
-  max-width: 400px;
+  
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
