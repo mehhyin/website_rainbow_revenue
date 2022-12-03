@@ -10,3 +10,16 @@ body {
 .project-filter-button-container > a {
   margin-right: 1rem;
 }
+
+.modal__content img {
+  max-width: 100%;
+}
+
+.modal__content {
+  display: flex;
+  flex-direction: column;
+}
+
+#projectsContainer > div {
+  cursor: pointer;
+}
