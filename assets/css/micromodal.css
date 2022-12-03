@@ -22,7 +22,7 @@
 .modal__container {
   background-color: #fff;
   padding: 30px;
-  max-width: calc(100vw - 100px);
+  width:100%;
   max-height: 100vh;
   border-radius: 4px;
   overflow-y: auto;
